@@ -65,12 +65,13 @@
     		<version>3.8.1</version>
 		</dependency>
 !-->		
-		<dependency>
-            <groupId>org.ow2.asm</groupId>
-            <artifactId>asm</artifactId>
-            <version>6.2</version> <!-- Use newer version of ASM -->
-        </dependency>
-				
+	<!-- https://mvnrepository.com/artifact/org.ow2.asm/asm -->
+	<dependency>
+		<groupId>org.ow2.asm</groupId>
+		<artifactId>asm</artifactId>
+		<version>7.0</version>
+	</dependency>
+			
 	</dependencies>
 	
 
